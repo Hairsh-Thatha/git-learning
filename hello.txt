@@ -1,4 +1,4 @@
 Hello from .txt file.
-this is coming from conflicts-2
-
-updated the hello file
+Hello from hello text file
+I am from conflicts-1 branch.
+Updated the first line.
