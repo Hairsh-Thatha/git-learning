@@ -1,3 +1,5 @@
-hello from hello text
+Hello from hello text file
+I am from conflicts-1 branch.
+Updated the first line.
 
 updated the hello file
