@@ -2,3 +2,6 @@ Hello from .txt file.
 Hello from hello text file
 I am from conflicts-1 branch.
 Updated the first line.
+
+
+git updated after stash.
